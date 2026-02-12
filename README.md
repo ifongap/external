@@ -4,8 +4,7 @@
 ![更新频率](https://img.shields.io/badge/更新频率-持续维护-brightgreen)
 ![开源许可](https://img.shields.io/badge/开源许可-MIT%20License-orange)
 ![最近更新](https://img.shields.io/badge/最近更新-2026--02--12%20UTC%2B08-blue)
-
-🌐 **统一访问入口：** https://a.135468.xyz/
+[![访问入口](https://img.shields.io/badge/访问入口-https://a.135468.XYZ-blueviolet)](https://a.135468.xyz)
 
 ---
 
