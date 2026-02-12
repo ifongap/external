@@ -1,5 +1,3 @@
-# 🧪 Fong's Network Resources Lab
-
 ![数据规模](https://img.shields.io/github/repo-size/ifongap/external?label=数据规模)
 ![更新频率](https://img.shields.io/badge/更新频率-持续维护-brightgreen)
 ![开源许可](https://img.shields.io/badge/开源许可-MIT%20License-orange)
