@@ -93,20 +93,6 @@ https://raw.githubusercontent.com/ifongap/external/main/文件路径
 
 ---
 
-## 🔄 更新机制
-
-本仓库通过 GitHub Actions 自动维护：
-
-* ⏱️ 定期拉取上游规则与 IPTV 源
-* 🧹 自动清理失效或重复条目
-* 🧩 规则合并与结构优化
-* 🛠️ 支持手动触发更新流程
-
-📜 查看完整更新历史：
-[https://github.com/ifongap/external/commits/main](https://github.com/ifongap/external/commits/main)
-
----
-
 ## ⚠️ 免责声明
 
 1. 本仓库内容仅供学习与技术研究使用。
@@ -114,5 +100,3 @@ https://raw.githubusercontent.com/ifongap/external/main/文件路径
 3. 请勿将本仓库内容用于商业用途或任何违法行为。
 
 ---
-
-Maintained by Fong
