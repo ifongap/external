@@ -5,7 +5,7 @@
 ![开源许可](https://img.shields.io/badge/开源许可-MIT%20License-orange)
 ![最近更新](https://img.shields.io/badge/最近更新-2026--02--12%20UTC%2B08-blue)
 
-🌐 **统一访问入口：** https://a.135468.xyz/
+🌐 **统一访问入口：** https://a.135468.xyz/(https://a.135468.xyz)
 
 ---
 
@@ -34,7 +34,7 @@ rule-providers:
   my-adblock:
     type: http
     behavior: domain
-    url: https://a.135468.xyz/adblock/ad-rules.list
+    url: https://a.135468.xyz/adblock/adblocklist.txt
     path: ./ruleset/my-adblock.yaml
     interval: 86400
 ```
@@ -59,7 +59,7 @@ rule-providers:
 #### 🔹 播放列表示例地址
 
 ```
-https://a.135468.xyz/iptv/iptv.m3u
+https://a.135468.xyz/iptv/live.m3u
 ```
 
 支持所有兼容 M3U 的播放器：
