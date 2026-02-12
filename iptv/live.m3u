@@ -105,8 +105,6 @@ http://112.234.23.166:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=
 http://121.19.134.204:808/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://live.fanmingming.com/tv/ESPN2.png" group-title="体育频道",ESPN2
 http://1tv41.icu:8080/8434692955/judgen64@yahoo.com/2210
-#EXTINF:-1 tvg-id="ESPNU" tvg-logo="https://live.fanmingming.com/tv/ESPNU.png" group-title="体育频道",ESPNU
-http://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport" tvg-logo="https://live.fanmingming.com/tv/Eurosport.png" group-title="体育频道",Eurosport
 http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/31475/index.m3u8
 #EXTINF:-1 tvg-id="SportsGrid" tvg-logo="https://live.fanmingming.com/tv/SportsGrid.png" group-title="体育频道",SportsGrid
@@ -117,19 +115,11 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 http://112.234.23.166:9901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="体育频道",广东体育
 http://218.13.170.98:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="ABC NEWS" tvg-logo="https://live.fanmingming.com/tv/ABCNEWS.png" group-title="国际频道",ABC NEWS
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="BBC" tvg-logo="https://live.fanmingming.com/tv/BBC.png" group-title="国际频道",BBC
 https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERG" tvg-logo="https://live.fanmingming.com/tv/BLOOMBERG.png" group-title="国际频道",BLOOMBERG
 https://1cd69008d08c486ca5abc0f1c4e2ef63.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Bloomberg-kr-prod/87e22cf4-e302-42f6-a781-1d726fc87835/0.m3u8
-#EXTINF:-1 tvg-id="CNBC" tvg-logo="https://live.fanmingming.com/tv/CNBC.png" group-title="国际频道",CNBC
-https://fl1.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="国际频道",CNN
 https://jmp2.uk/stvp-GBBD8000016N
-#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://live.fanmingming.com/tv/DISCOVERY.png" group-title="国际频道",DISCOVERY
-http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-id="HISTORY" tvg-logo="https://live.fanmingming.com/tv/HISTORY.png" group-title="国际频道",HISTORY
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://live.fanmingming.com/tv/NATIONALGEOGRAPHIC.png" group-title="国际频道",NATIONAL GEOGRAPHIC
-http://fl1.moveonjoy.com/National_Geographic/index.m3u8
